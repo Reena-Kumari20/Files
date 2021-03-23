@@ -9,3 +9,5 @@ b=f.read()
 print("\nthese all bilong to shimla")
 print(b)
 f.close
+
+

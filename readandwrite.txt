@@ -1,0 +1,6 @@
+Python is Object-Oriented: Python supports Object-Oriented style or technique of programming that encapsulates code within objects.nted style or technique of programming that encapsulates code within objects.s. at a Python prompt and interact with the
+interpreter directly to write your programs.
+Python is Object-Oriented: Python supports Object-Oriented style or technique of programming that encapsulates code within objects.Python is Interpreted:Python is processed at runtime by the interpreter.
+ You do notneed to compile your program before executing it. This is similar to PERL and PHP.
+Python is Interactive: You can actually sit at a Python prompt and interact with the
+interpreter directly to write your programs.
